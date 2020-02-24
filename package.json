@@ -1,5 +1,5 @@
 {
-  "name": "@editorjs/header",
+  "name": "@socialbet/editor-js-header",
   "version": "2.4.0",
   "keywords": [
     "codex editor",
@@ -8,9 +8,9 @@
     "editor.js",
     "editorjs"
   ],
-  "description": "Header Tool for Editor.js",
+  "description": "Socialbet fork: Header Tool for Editor.js",
   "license": "MIT",
-  "repository": "https://github.com/editor-js/header",
+  "repository": "https://github.com/brlabrussia/editor.js-header",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",

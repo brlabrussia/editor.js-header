@@ -489,7 +489,7 @@ class Header {
   static get toolbox() {
     return {
       icon: require('./../assets/icon.svg').default,
-      title: 'Heading'
+      title: 'Заголовок'
     };
   }
 }
